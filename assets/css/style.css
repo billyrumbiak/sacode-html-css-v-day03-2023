@@ -1,0 +1,30 @@
+body {
+    background-color: #164B60;
+}
+.p-satu {
+    color: white; 
+    font-size: 50px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center;
+}
+.div-satu {
+    width: 100%; 
+    background-color: #A2FF86; 
+    padding: 5px; 
+    font-family: arial;
+    margin-bottom: 10px;
+}
+.div-dua {
+    width: 100%;
+    background-color: #4FC0D0;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+.div-dua h2{
+    font-family: impact;
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+.div-dua p {
+    font-family: arial;
+}
